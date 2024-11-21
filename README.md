@@ -1,44 +1,44 @@
-<p style='margin-right:0in;margin-left:102.95pt;font-size:13px;font-family:"Times New Roman",serif;margin:0in;text-indent:-102.95pt;'>&nbsp;</p>
-<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;text-align:center;line-height:115%;'><strong><span style="font-size:19px;line-height:115%;">Timothy Thomas</span></strong></p>
-<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;text-align:center;line-height:115%;'><span style="font-size:16px;line-height:115%;">Charlotte, NC <strong>|</strong> C: 980.292.6507</span></p>
-<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;text-align:center;line-height:115%;'><a href="mailto:Timothy.Thomas.Info@gmail.com"><span style="font-size:16px;line-height:115%;">Timothy.Thomas.Info@gmail.com</span></a><span style="font-size:16px;line-height:115%;">&nbsp;</span></p>
-<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;text-align:center;line-height:115%;'><span style="font-size:16px;line-height:115%;">&nbsp;</span></p>
-<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;text-align:center;line-height:115%;'><span style="font-size:16px;line-height:115%;">&nbsp;</span></p>
-<p style='margin-right:0in;margin-left:2.0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;text-align:center;text-indent:-2.0in;background:#EEECE1;'><strong><u><span style="font-size:21px;color:black;">Summary</span></u></strong></p>
-<p style='margin-right:0in;margin-left:2.0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;text-align:justify;text-indent:-2.0in;'><span style="font-size:16px;">&nbsp;</span></p>
-<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><span style="font-size:16px;">I have a degree in Business Administration with over twenty years&rsquo; work experience, 13 years of which were as a business owner and 7 from the IT industry. &nbsp;&nbsp;</span></p>
+<p style="font-size:19px; font-family:'Times New Roman', serif; text-align:center; line-height:115%; margin:0;"><strong>Timothy Thomas</strong></p>
+<p style="font-size:16px; font-family:'Times New Roman', serif; text-align:center; line-height:115%; margin:0;">
+    Charlotte, NC <strong>|</strong> C: 980.292.6507
+</p>
+<p style="font-size:16px; font-family:'Times New Roman', serif; text-align:center; line-height:115%; margin:0; margin-bottom:5px;">
+    <a href="mailto:Timothy.Thomas.Info@gmail.com">Timothy.Thomas.Info@gmail.com</a>
+</p>
+
+<p style='margin-right:0in;margin-left:2.0in;font-size:13px;font-family:"Times New Roman",serif;margin:0;text-align:center;text-indent:-2.0in;background:#EEECE1; margin-bottom:5px;'><strong><u><span style="font-size:21px;color:black;">Summary</span></u></strong></p>
+
+<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><span style="font-size:16px;">I have a degree in Business Administration with over twenty years&rsquo; work experience, 13 years of which were as a business owner and 7 from the IT industry.</span></p>
 <p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><span style="font-size:16px;">My objective is to join a team where I can collaborate with others using data to improve business processes, create innovative solutions so a business can operate more efficiently.</span></p>
-<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><span style="font-size:16px;">I&rsquo;m currently enrolled in an Advanced Level Data Analytics, 3-month bootcamp upscaling my current skills in Power BI, SQL and Python</span></p>
-<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><span style="font-size:16px;">My past roles such as project manager and business owner have taught how important it is to be a better communicator, collaborate well with colleagues, be a loyal leader and foster comradery. &nbsp;</span></p>
-<p style='margin-right:0in;margin-left:2.0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;text-indent:-2.0in;'><span style="font-size:16px;">&nbsp;</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><span style="font-size:16px;">I&rsquo;m currently enrolled in an Advanced Level Data Analytics, 3-month bootcamp upscaling my current skills in Power BI, SQL and Python.</span></p>
+<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><span style="font-size:16px;">My past roles such as project manager and business owner have taught how important it is to be a better communicator, collaborate well with colleagues, be a loyal leader and foster comradery.</span></p>
 <p style='margin-right:0in;margin-left:2.0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;text-align:center;text-indent:-2.0in;background:#EEECE1;'><strong><u><span style="font-size:21px;color:black;">Professional/Technical Skills</span></u></strong></p>
-<p style='margin-right:0in;margin-left:.5in;font-size:13px;font-family:"Times New Roman",serif;margin-top:0in;margin-bottom:0in;'><span style="font-size:16px;">&nbsp;</span></p>
-<p><span style='font-size:16px;font-family:"Times New Roman";'><br>&nbsp;</span></p>
 <ul style="list-style-type: undefined;">
     <li><span style="font-size:16px;">Excel (complex formulas, VLOOKUP and Pivot Tables)</span></li>
     <li><span style="font-size:16px;">Word</span></li>
     <li><span style="font-size:16px;">Outlook</span></li>
-    <li><span style="font-size:16px;">Teams&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></li>
+    <li><span style="font-size:16px;">Teams</span></li>
     <li><span style="font-size:16px;">SQL</span></li>
     <li><span style="font-size:16px;">Python</span></li>
     <li><span style="font-size:16px;">Power BI</span></li>
     <li><span style="font-size:16px;">Power Point</span></li>
-    <li><span style="font-size:16px;">MS Project -Gantt bar charts, PERT diagrams</span></li>
+    <li><span style="font-size:16px;">MS Project - Gantt bar charts, PERT diagrams</span></li>
     <li>CISSP Attended Course</li>
 </ul>
-<p><span style='font-size:16px;font-family:"Times New Roman";'><br>&nbsp;</span></p>
-<p style='margin-right:0in;margin-left:5.4pt;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><span style="font-size:16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span></p>
-<p style='margin-right:0in;margin-left:2.0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;margin-top:0in;margin-bottom:12.0pt;text-align:center;text-indent:-2.0in;background:#EEECE1;'><strong><u><span style="font-size:21px;color:black;">Professional Experience</span></u></strong></p>
-<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><strong><span style="font-size:13px;">&nbsp;</span></strong></p>
-<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><strong><span style="font-size:13px;">&nbsp;</span></strong></p>
+<p style='margin-right:0in;margin-left:2.0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;margin-top:0in;margin-bottom:12.0pt;text-align:center;text-indent:-2.0in;background:#EEECE1;'>
+    <strong><u><span style="font-size:21px;color:black;">Professional Experience</span></u></strong>
+</p>
 <p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><strong>ESL Teacher</strong></p>
 <p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'>Preply, Charlotte, NC<strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; January 2022 &ndash; PRESENT</strong></p>
-<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><strong><span style="font-size:13px;">&nbsp;</span></strong></p>
+
+
+
+<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><strong><span style="font-size:13px;"></span></strong></p>
 <p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><span style="font-size:16px;">Design and teach differentiated English lessons, incorporating modifications for language acquisition while enforcing an English-only environment.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
 <p style='margin-right:0in;margin-left:2.0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;text-indent:-2.0in;'><strong><span style="font-size:16px;">&nbsp;</span></strong></p>
 <p style='margin-right:0in;margin-left:2.0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;text-indent:-2.0in;'><strong><span style="font-size:16px;">Office Manager and English Teacher</span></strong><span style="font-size:16px;">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>September 2009&ndash; November 2021</strong></span></p>
 <p style='margin-right:0in;margin-left:2.0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;text-indent:-2.0in;'><span style="font-size:16px;">StepbyStep Language Center, Moscow, RU</span></p>
-<p style='margin-right:0in;margin-left:2.0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;text-indent:-2.0in;'><strong><span style="font-size:16px;">&nbsp;</span></strong></p>
+<p style='margin-right:0in;margin-left:2.0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;text-indent:-2.0in;'><strong><span style="font-size:16px;"></span></strong></p>
 <ul style="list-style-type: disc;">
     <li>Oversaw daily operations, business profits, efficiencies and forecasts.</li>
     <li>Performed hiring, training, and mentoring of employees.</li>
@@ -84,7 +84,7 @@
 <p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><span style="font-size:16px;">&nbsp;</span></p>
 <p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><span style="font-size:16px;">&nbsp;</span></p>
 <p style='margin-right:0in;margin-left:2.0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;margin-top:0in;margin-bottom:12.0pt;text-align:center;text-indent:-2.0in;background:#EEECE1;'><strong><u><span style="font-size:21px;color:black;">Education, Training and Certification</span></u></strong></p>
-<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><strong><span style="font-size:16px;">&nbsp;</span></strong></p>
+<p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><strong><span style="font-size:16px;"></span></strong></p>
 <p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><strong><span style="font-size:16px;">Goodwill University</span></strong><span style="font-size:16px;">- Charlotte NC</span></p>
 <p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><span style="font-size:16px;">Data Analyst Training &ndash; Present &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
 <p style='margin-right:0in;margin-left:0in;font-size:13px;font-family:"Times New Roman",serif;margin:0in;'><strong><span style="font-size:16px;">&nbsp;</span></strong></p>
